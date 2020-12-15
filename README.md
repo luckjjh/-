@@ -1,4 +1,4 @@
-# -
+# Investment_simulator
 1. Investment_simulator_2016742039.java 파일에 있는 main method를 활용해 간단한 모의 주식을 할 수 있는 프로그램입니다.
 
 2. 개요
